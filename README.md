@@ -1,7 +1,6 @@
-### Hi there 👋
+# Hi, I'm Hau (aka Hariki) 👋
 
-<!--
-**HarikiRito/HarikiRito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer who is passionate about making programs, solving problems, and learning new things. I usually make autonomous apps that help my life more comfortably. Some technologies I enjoy working with are Typescript, React, and MERN stack (MongoDB, Express, React, NodeJS). I am also having an interest in Python and Java.
 
 Here are some ideas to get you started:
 
