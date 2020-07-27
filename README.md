@@ -6,6 +6,7 @@ I'm a software engineer who is passionate about making programs, solving problem
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harikirito&count_private=true&hide=php)](github.com)
 
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
