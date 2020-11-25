@@ -2,7 +2,7 @@
 
 I'm a software engineer who is passionate about making programs, solving problems, and learning new things. I usually make autonomous apps that help my life more comfortably. Some technologies I enjoy working with are Typescript, React, and MERN stack (MongoDB, Express, React, NodeJS). I am also having an interest in Mobile Development using React Native and Flutter.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamvucms&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=harikirito&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harikirito&count_private=true&hide=php,html,css)](github.com)
 
 
